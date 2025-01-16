@@ -1,0 +1,4 @@
+Když měl v roce 1990 v Japonsku vyjít Super Famicom, bylo právě F-Zero jednou z her, které ukazovaly technické schopnosti této konzole. Právě tato hra masivně využívá Mode 7, což je grafický režim ve kterém je herní pozadí vykreslováno v perspektivě. To u celé hry vyvolává dojem, že je ve 3D.
+F-Zero byl navíc jedním ze tří titulů, který doprovázel vydání konzole spolu s Super Mario World a Pilotwings, a byl začátkem úspěšné videoherní série.
+Název hry byl motivován faktem, že závody v této hře jsou tak rychlé, že se s nimi nemůže měřit ani Formule-1.
+
